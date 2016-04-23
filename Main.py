@@ -40,7 +40,7 @@ curve.calculate(-10, 10, 0.01)
 curve2 = Locus(
     "parametric",
     ("11*cos(t)-6*cos(11*t/6)", "11*sin(t)-6*sin(11*t/6)"),
-    ORANGE)
+    GREEN)
 curve2.calculate(0, 40, 0.01)
 
 curve3 = Locus(
@@ -57,7 +57,7 @@ curve4 = Locus(
 curve4.calculate(-40, 40, 0.01)
 
 graphManager = GraphManager(winw / 3, winh)
-graphManager.addGraph(curve)
+# graphManager.addGraph(curve)
 graphManager.addGraph(curve2)
 graphManager.addGraph(curve3)
 # graphManager.addGraph(curve4)
