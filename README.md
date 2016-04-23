@@ -1,6 +1,6 @@
 # Graphical Calculator
 
-(https://raw.githubusercontent.com/DylanCope/Graphical-Calculator/master/res/screenshot.png)
+[screen shot]!(https://raw.githubusercontent.com/DylanCope/Graphical-Calculator/master/res/screenshot.png)
 
 ## Installation and Running
 
