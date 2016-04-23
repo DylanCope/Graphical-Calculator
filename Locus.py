@@ -17,8 +17,8 @@ def programatize(eqn):
     eqn = eqn.replace("sin", "math.sin")
     eqn = eqn.replace("cos", "math.cos")
     eqn = eqn.replace("tan", "math.tan")
-    eqn = eqn.replace("arc", "math.a")
-    eqn = eqn.replace("ar", "math.a")
+    # eqn = eqn.replace("arc", "math.a")
+    # eqn = eqn.replace("ar", "math.a")
 
     return eqn
 
