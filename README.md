@@ -35,4 +35,4 @@ $ python Main.py
 ## Dependencies
 
 * Python 3 : https://www.python.org/download/releases/3.0/
-* zPygame : http://www.pygame.org
+* Pygame : http://www.pygame.org
